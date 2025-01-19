@@ -1,8 +1,10 @@
 # Dokumentacja: CSViewer
 
-## 1. Wprowadzenie
+## 1.1 Wprowadzenie
 Celem tego projektu jest stworzenie aplikacji do przeglądania, sortowania oraz filtrowania danych z plików CSV, z interfejsem graficznym zaprojektowanym w Pythonie z wykorzystaniem bibliotek `customtkinter` i `pandas`. Projekt jest zgodny z wytycznymi SAFe® 6.0 i przyjmuje podejście iteracyjne, umożliwiające regularne dostarczanie wartości dla interesariuszy.
 
+## 1.2 Grupa projektowa
+-Adam Salicki 82705, Mateusz Staszewski 71502, Mateusz Weber 73881, Oliwia Piwowarczyk 71451, Oskar Nowicki 69568.
 ---
 
 ## 2. Wizja Produktu
