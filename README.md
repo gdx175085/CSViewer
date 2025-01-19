@@ -1,4 +1,4 @@
-# Dokumentacja Projektu: "CSViewer" (oparta o SAFe® 6.0)
+# Dokumentacja: CSViewer
 
 ## 1. Wprowadzenie
 Celem tego projektu jest stworzenie aplikacji do przeglądania, sortowania oraz filtrowania danych z plików CSV, z interfejsem graficznym zaprojektowanym w Pythonie z wykorzystaniem bibliotek `customtkinter` i `pandas`. Projekt jest zgodny z wytycznymi SAFe® 6.0 i przyjmuje podejście iteracyjne, umożliwiające regularne dostarczanie wartości dla interesariuszy.
@@ -129,7 +129,7 @@ pip install customtkinter
 
 ### 7.2 Testy Automatyczne
 
-- Testy jednostkowe dla funkcji `load_csv`, `sort_data` i `filter_data`.
+- Testy jednostkowe dla funkcji `load_csv` i `sort_data`.
 - Mockowanie obiektów, takich jak `Treeview`, aby sprawdzić poprawność wyświetlania danych.
 
 Przykładowe testy (zawarte w pliku `test.py`):
@@ -157,5 +157,5 @@ Przykładowe testy (zawarte w pliku `test.py`):
 
 ## 10. Podsumowanie
 
-Projekt "CSViewer" realizuje założenia SAFe® 6.0 poprzez iteracyjne podejście do budowy funkcjonalnego narzędzia analitycznego. Dzięki dodatkowym funkcjonalnościom, takim jak filtrowanie danych, aplikacja stanowi wszechstronne narzędzie wspierające analityków danych i innych użytkowników.
+Projekt dzięki dodatkowym funkcjonalnościom, takim jak filtrowanie danych, aplikacja stanowi wszechstronne narzędzie wspierające analityków danych i innych użytkowników.
 
